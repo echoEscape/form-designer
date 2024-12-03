@@ -45,3 +45,10 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+# Tailwind
+.log/
+docs/
+css/
+export.scss
+export/
