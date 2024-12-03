@@ -80,7 +80,7 @@ Follow these steps to set up the development environment:
 
 - Use **Prettier** for consistent formatting. Run `npm run format` before committing.
 - Use **TypeScript** conventions: strict types, camelCase variables, and PascalCase for classes.
-- Follow the [Angular Style Guide](https://angular.io/guide/styleguide).
+- Follow the [Angular Style Guide](https://angular.dev/style-guide).
 
 ### Commit Messages
 
