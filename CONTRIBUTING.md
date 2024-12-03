@@ -18,7 +18,7 @@ First off, thank you for considering contributing to **Form-Designer**! Contribu
 
 ## Code of Conduct
 
-This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code. Please report unacceptable behavior to `your.email@example.com`.
+This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/). By participating, you are expected to uphold this code.
 
 ---
 
