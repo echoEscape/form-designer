@@ -1,6 +1,6 @@
-# Contributing to Form-Designer
+# Contributing to Waypoint
 
-First off, thank you for considering contributing to **Form-Designer**! Contributions are what make open-source projects thrive. Whether you're reporting a bug, suggesting a new feature, improving documentation, or contributing code, your input is greatly appreciated.
+First off, thank you for considering contributing to **Waypoint**! Contributions are what make open-source projects thrive. Whether you're reporting a bug, suggesting a new feature, improving documentation, or contributing code, your input is greatly appreciated.
 
 ## Table of Contents
 
@@ -26,7 +26,7 @@ This project adheres to the [Contributor Covenant Code of Conduct](https://www.c
 
 ### Report Bugs
 
-If you encounter a bug, please open an issue on the [GitHub Issue Tracker](https://github.com/echoEscape/form-designer/issues) and include:
+If you encounter a bug, please open an issue on the [GitHub Issue Tracker](https://github.com/echoEscape/waypoint/issues) and include:
 
 - A clear and descriptive title.
 - Steps to reproduce the problem.
@@ -59,7 +59,7 @@ Follow these steps to set up the development environment:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/echoEscape/form-designer.git
+    git clone https://github.com/echoEscape/waypoint.git
     cd form-designer
     ```
 2. Install dependencies:
@@ -93,7 +93,7 @@ Use the [Conventional Commit](https://www.conventionalcommits.org/) format:
 
 #### Example:
 
-feat(form-builder): add drag-and-drop feature to canvas fix(ui): correct alignment of input fields in preview mode
+feat(waypoint): add drag-and-drop feature to canvas fix(ui): correct alignment of input fields in preview mode
 **Commit Types:**
 
 - **feat**: A new feature.
@@ -132,5 +132,5 @@ feat(form-builder): add drag-and-drop feature to canvas fix(ui): correct alignme
 
 If you have any questions or need help, feel free to:
 
-- Open a [GitHub Discussion](https://github.com/echoEscape/form-designer/discussions).
-- Report an issue on the [GitHub Issue Tracker](https://github.com/echoEscape/form-designer/issues).
+- Open a [GitHub Discussion](https://github.com/echoEscape/waypoint/discussions).
+- Report an issue on the [GitHub Issue Tracker](https://github.com/echoEscape/waypoint/issues).
