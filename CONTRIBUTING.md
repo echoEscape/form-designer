@@ -60,7 +60,7 @@ Follow these steps to set up the development environment:
 1. Clone the repository:
     ```bash
     git clone https://github.com/echoEscape/waypoint.git
-    cd form-designer
+    cd waypoint
     ```
 2. Install dependencies:
     ```bash
