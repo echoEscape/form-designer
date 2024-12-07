@@ -1,8 +1,8 @@
-# Form-Designer
+# Waypoint
 
-[![GitHub Stars](https://img.shields.io/github/stars/echoEscape/form-designer.svg)](https://github.com/echoEscape/form-designer/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/echoEscape/form-designer.svg)](https://github.com/echoEscape/form-designer/issues) [![Current Version](https://img.shields.io/badge/version-0.0.0-yellow.svg)](https://github.com/echoEscape/form-designer)
+[![GitHub Stars](https://img.shields.io/github/stars/echoEscape/waypoint.svg)](https://github.com/echoEscape/waypoint/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/echoEscape/waypoint.svg)](https://github.com/echoEscape/waypoint/issues) [![Current Version](https://img.shields.io/badge/version-0.0.0-yellow.svg)](https://github.com/echoEscape/waypoint)
 
-**Form-Designer** is a drag-and-drop tool built with Angular, designed for corporations and internal departments to draft and design web forms interactively. This tool simplifies the process of creating step-by-step user forms, accommodating various input types (dates, radio buttons, text, numbers, etc.), and is especially suited for collaboration between teams or with external customers.
+**Waypoint** is a drag-and-drop tool built with Angular, designed for corporations and internal departments to draft and design web forms interactively. This tool simplifies the process of creating step-by-step user forms, accommodating various input types (dates, radio buttons, text, numbers, etc.), and is especially suited for collaboration between teams or with external customers. It also provides processes to handle the correct routes a form takes throughout a company by sending out alerts, e-mails and other notifications to key personell. Through those means the correct employees, teams or departments are then able to approve/deny or send the form further on its way.
 
 ## Table of Contents
 1. [Features](#features)
@@ -17,7 +17,7 @@
 
 ## Features
 
-- **Drag-and-Drop Interface**: Effortlessly design forms using an intuitive drag-and-drop UI.
+- **Drag-and-Drop Interface**: Effortlessly design forms, the routes it takes and notification-types using an intuitive drag-and-drop UI.
 - **Multi-Step Form Builder**: Supports creating step-by-step guided forms for seamless user navigation.
 - **Customizable Input Types**:
   - Date pickers
@@ -37,8 +37,8 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/echoEscape/form-designer.git
-    cd form-designer
+    git clone https://github.com/echoEscape/waypoint.git
+    cd waypoint
     ```
 2. Install dependencies:
     ```bash
@@ -110,4 +110,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) fi
 ## Contact
 
 Developed with ❤️ by **[echoEscape](https://github.com/echoEscape)**.  
-Have questions or suggestions? Reach out via [GitHub Issues](https://github.com/echoEscape/form-designer/issues).
+Have questions or suggestions? Reach out via [GitHub Issues](https://github.com/echoEscape/waypoint/issues).
