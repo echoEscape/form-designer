@@ -2,7 +2,8 @@
 
 [![GitHub Stars](https://img.shields.io/github/stars/echoEscape/waypoint.svg)](https://github.com/echoEscape/waypoint/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/echoEscape/waypoint.svg)](https://github.com/echoEscape/waypoint/issues) [![Current Version](https://img.shields.io/badge/version-0.0.0-yellow.svg)](https://github.com/echoEscape/waypoint)
 
-**Waypoint** is a drag-and-drop tool built with Angular, designed for corporations and internal departments to draft and design web forms interactively. This tool simplifies the process of creating step-by-step user forms, accommodating various input types (dates, radio buttons, text, numbers, etc.), and is especially suited for collaboration between teams or with external customers. It also provides processes to handle the correct routes a form takes throughout a company by sending out alerts, e-mails and other notifications to key personell. Through those means the correct employees, teams or departments are then able to approve/deny or send the form further on its way.
+**Waypoint** makes form-building simple, collaborative, and efficient. With an intuitive drag-and-drop interface powered by Angular, it’s designed for teams to create step-by-step forms effortlessly—supporting all major input types like dates, text, numbers, and more.
+Additionally, it streamlines workflows by automating form routing, sending notifications, and managing approvals, ensuring your forms reach the right people at the right time. Perfect for internal departments or cross-team collaboration.
 
 ## Table of Contents
 1. [Features](#features)
